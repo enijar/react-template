@@ -3,7 +3,7 @@
 
 # Generated
 build/
-release/
+releases/
 node_modules/
 .eslintcache
 npm-debug.log*
