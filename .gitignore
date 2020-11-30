@@ -1,0 +1,15 @@
+# MacOS
+.DS_Store
+
+# Generated
+build/
+release/
+node_modules/
+.eslintcache
+npm-debug.log*
+
+# Dev
+.idea/
+
+# Secrents
+.env

@@ -1,0 +1,34 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "npx react-scripts start",
+    "build": "./bin/build.sh"
+  },
+  "dependencies": {
+    "prettier": "^2.2.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.1",
+    "sass": "^1.29.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all",
+      "ie 11"
+    ],
+    "development": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all",
+      "ie 11"
+    ]
+  }
+}
